@@ -8,7 +8,7 @@ I am a self-driven, empathetic, self-taught, and social individual who excels at
 
 <h2 id="-links">🔗 Links</h2>
 <p><a href="#"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="portfolio"></a>
-<a href="www.linkedin.com/in/cristianvellio"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a></p>
+<a href="https://www.linkedin.com/in/cristianvellio/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a></p>
 </p>
 
 <h2 align="left">🛠 Skills</h2>
