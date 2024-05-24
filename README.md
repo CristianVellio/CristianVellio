@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 id="hola-soy-bernabe-">Hi, I'm Cristian! 🤓</h1>
+<h2 id="-sobre-mi">💻 About Me 🚀</h2>
+<p>I’m a Fullstack Software and Web Developer, currently a student in the Bachelor’s in Technology of Software Development program at the Higher Polytechnic Institute of Córdoba (ISPC). Additionally, I am enrolled in the Fullstack Web Developer higher education program at the National University of Technology, Buenos Aires Branch (UTN-BA), and the Fullstack Python professional course at Codo a Codo, provided by the Buenos Aires City Government, Agencia de Aprendizaje.
+<br>
+My background includes a high school diploma in Arts, Communications, and Design. I also attended the bachelor’s program in Modern Literature, which provided me with valuable tools that I can apply in the IT and programming world. I completed my first course as a Junior PC Operator at the age of 13, despite not owning a PC at home. I have always been passionate about the IT universe, which is why I am both enthusiastic and proud to have made the career leap to become a full-fledged Developer.
+<br>
+I am a self-driven, empathetic, self-taught, and social individual who excels at working with others, learning from them, and sharing my knowledge. I hope we can collaborate or work together in the future.s</p>
 
-<!--
-**CristianVellio/CristianVellio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 id="-links">🔗 Links</h2>
+<p><a href="#"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="portfolio"></a>
+<a href="www.linkedin.com/in/cristianvellio"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a></p>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">🛠 Skills</h3>
+<p align="left">  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original-wordmark.svg" alt="gimp" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianvellio&langs_count=8&theme=onedark" alt="cristianvellio" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianvellio&show_icons=true&locale=en&theme=onedark" alt="cristianvellio" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristianvellio&theme=onedark" alt="cristianvellio" /></p>
