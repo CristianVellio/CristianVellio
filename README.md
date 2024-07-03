@@ -1,6 +1,6 @@
 <h1 id="hola-soy-bernabe-">Hi, I'm Cristian! 👋</h1>
 <h2 id="-sobre-mi">💻 About Me 🚀</h2>
-<p>I’m a Software and Fullstack Web Developer, currently a student in the Bachelor’s in Technology of Software Development program at the Higher Polytechnic Institute of Córdoba (ISPC). Additionally, I am enrolled in the Fullstack Web Developer higher education program at the National University of Technology, Buenos Aires Branch (UTN-BA), and the Fullstack Python professional course at Codo a Codo, provided by the Buenos Aires City Government, Agencia de Aprendizaje.
+<p>I’m a Software and Full-Stack Web Developer, currently a student in the Bachelor’s in Technology of Software Development program at the Higher Polytechnic Institute of Córdoba (ISPC). Additionally, I am enrolled in the Full-Stack Web Developer higher education program at the National University of Technology, Buenos Aires Branch (UTN-BA), and the Fullstack Python professional course at Codo a Codo, provided by the Buenos Aires City Government, Agencia de Aprendizaje.
 <br>
 My background includes a high school diploma in Arts, Communications, and Design. I also attended the bachelor’s program in Modern Literature, which provided me with valuable tools that I can apply in the IT and programming world. I completed my first course as a Junior PC Operator at the age of 12, despite not owning a PC at home. I have always been passionate about the IT universe, which is why I am both enthusiastic and proud to have made the career leap to become a full-fledged Developer.
 <br>
