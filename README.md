@@ -6,7 +6,7 @@ My background includes a high school diploma in Arts, Communications, and Design
 <br>
 I am a self-driven, empathetic, self-taught, and social individual who excels at working with others, learning from them, and sharing my knowledge. I hope we can collaborate or work together in the future.</p>
 
-<h2 id="-links">🔗 Links</h2>
+<h2>🔗 Links</h2>
 <p><a href="https://cristian-vellio-cv.vercel.app/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="portfolio"></a>
 <a href="https://www.linkedin.com/in/cristianvellio/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a></p>
 </p>
