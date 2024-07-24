@@ -1,4 +1,4 @@
-<h1 id="hola-soy-bernabe-">Hi, I'm Cristian! 👋</h1>
+<h1> Hi, I'm Cristian! 👋</h1>
 <h2 id="-sobre-mi">💻 About Me 🚀</h2>
 <p>I’m a Full-Stack Software Developer, currently a student in the Bachelor’s in Technology of Software Development program at the Higher Polytechnic Institute of Córdoba (ISPC). Additionally, I am enrolled in the Full-Stack Web Developer higher education program at the National University of Technology, Buenos Aires Branch (UTN-BA), and the Python Developer professional course at Codo a Codo, provided by the Buenos Aires City Government, Agencia de Aprendizaje.
 <br>
