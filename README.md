@@ -20,4 +20,4 @@ I am a self-driven, empathetic, self-taught, and social individual who excels at
 
 <p><img align="center" src="https://github-readme-streak-stats-one-ecru.vercel.app?user=CristianVellio&theme=neon" alt="cristianvellio" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=PORT-FOLIO&theme=neon&show_owner=true" alt="cristianvellio" /></p>
+<a href="https://github.com/CristianVellio/PORT-FOLIO" rel="noreferrer"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=PORT-FOLIO&theme=neon&show_owner=true" alt="cristianvellio" /> </a>
