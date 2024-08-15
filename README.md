@@ -58,7 +58,7 @@ I am a self-driven, empathetic, self-taught, and social individual who excels at
 <br>
 <div align=center>
   
-<h2>🐍 My Contributions🐍 </h2>
+<h2>🐍 My Contributions 🐍 </h2>
 <br>
 
 <img alt="snake eating my contributions" src="http://raw.githubusercontent.com/cristianvellio/cristianvellio/output/github-contribution-grid-snake.svg" />
