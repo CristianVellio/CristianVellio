@@ -38,7 +38,8 @@ I am a self-driven, empathetic, self-taught, and social individual who excels at
 <p>&nbsp;<img align="center" src="https://github-readme-stats-cristian-vellio.vercel.app/api?username=cristianvellio&show_icons=true&rank_icon=github&locale=en&count-private=true&theme=neon" alt="cristianvellio" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats-one-ecru.vercel.app?user=CristianVellio&theme=neon" alt="cristianvellio" /></p>
-
+<br>
+<br>
 <h2 align=center>📌 Pinned</h2>
 
 <a href="https://github.com/CristianVellio/PORT-FOLIO" rel="noreferrer"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=PORT-FOLIO&theme=neon&show_owner=true" alt="cristianvellio" /> </a>
