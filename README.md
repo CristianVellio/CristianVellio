@@ -1,4 +1,4 @@
-<h1> Hi, I'm Cristian! 👋🏾</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&width=435&lines=Hi%2C+I'm+Cristian!+%F0%9F%91%8B%F0%9F%8F%BE" alt="Typing SVG" /></a>
 <h2>💻 About Me 🚀</h2>
 <p>I’m a Full-Stack Software Developer, I graduated from the Python Developer professional program at Codo a Codo, provided by the Buenos Aires City Government, Agencia de Aprendizaje.; currently a second-semester student in the Bachelor’s in Technology of Software Development program at the Higher Polytechnic Institute of Córdoba (ISPC). Additionally, I am enrolled in the Full-Stack Web Developer higher education program at the National University of Technology, Buenos Aires Branch (UTN-BA).
 <br>
