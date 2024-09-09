@@ -33,7 +33,7 @@ I am a self-driven, empathetic, self-taught, and social individual who excels at
 <br>
 <h2 align=center>📊 My Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats-cristian-vellio.vercel.app/api/top-langs/?username=cristianvellio&langs_count=8&theme=neon" alt="cristian-vellio" /></p>
+<p><img align="left" src="https://github-readme-stats-cristian-vellio.vercel.app/api/top-langs/?username=cristianvellio&langs_count=10&theme=neon" alt="cristian-vellio" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-cristian-vellio.vercel.app/api?username=cristianvellio&show_icons=true&rank_icon=github&locale=en&count-private=true&theme=neon" alt="cristianvellio" /></p>
 
