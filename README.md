@@ -32,27 +32,25 @@ I am a self-driven, empathetic, self-taught, and social individual who excels at
 <br>
 <br>
 <h2 align=center>📊 My Stats</h2>
+  
+<div align=justify>
+   <div align=right> 
+     &nbsp;<img src="https://github-readme-stats-cristian-vellio.vercel.app/api?username=cristianvellio&show_icons=true&rank_icon=github&locale=en&count-private=true&theme=neon" alt="cristianvellio" /> <img src="https://github-readme-streak-stats-one-ecru.vercel.app?user=CristianVellio&theme=neon" alt="cristianvellio" /> </div>
+  <div align=center>
+    <img src="https://github-readme-stats-cristian-vellio.vercel.app/api/top-langs/?username=cristianvellio&langs_count=10&theme=neon" alt="cristian-vellio" /> 
+    </div>
+</div>
 
-<p><img align="left" src="https://github-readme-stats-cristian-vellio.vercel.app/api/top-langs/?username=cristianvellio&langs_count=10&theme=neon" alt="cristian-vellio" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-cristian-vellio.vercel.app/api?username=cristianvellio&show_icons=true&rank_icon=github&locale=en&count-private=true&theme=neon" alt="cristianvellio" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats-one-ecru.vercel.app?user=CristianVellio&theme=neon" alt="cristianvellio" /></p>
 <br>
 <br>
 <h2 align=center>📌 Pinned</h2>
+<div align=center>
+<a href="https://github.com/CristianVellio/PORT-FOLIO" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=PORT-FOLIO&theme=neon" alt="cristianvellio" /> </a> <a href="https://github.com/ISPC-Brokers/Brokers" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=Brokers&theme=neon" alt="cristianvellio" /> </a>
 
-<a href="https://github.com/CristianVellio/PORT-FOLIO" rel="noreferrer"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=PORT-FOLIO&theme=neon" alt="cristianvellio" /> </a>
+<a href="https://github.com/CristianVellio/Oracle-ONE" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=Oracle-ONE&theme=neon" alt="cristianvellio" /> </a> <a href="https://github.com/CristianVellio/Proyecto-Integrador-UTN-FRBA-Inicial" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=Proyecto-Integrador-UTN-FRBA-Inicial&theme=neon" alt="cristianvellio" /> </a>
 
-<a href="https://github.com/ISPC-Brokers/Brokers" rel="noreferrer"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=Brokers&theme=neon" alt="cristianvellio" /> </a>
-
-<a href="https://github.com/CristianVellio/Oracle-ONE" rel="noreferrer"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=Oracle-ONE&theme=neon" alt="cristianvellio" /> </a>
-
-<a href="https://github.com/CristianVellio/Proyecto-Integrador-UTN-FRBA-Inicial" rel="noreferrer"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=Proyecto-Integrador-UTN-FRBA-Inicial&theme=neon" alt="cristianvellio" /> </a>
-
-<a href="https://github.com/CristianVellio/UTN-Full-Stack-JS-Integrador" rel="noreferrer"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=UTN-Full-Stack-JS-Integrador&theme=neon" alt="cristianvellio" /> </a>
-
-<a href="https://github.com/BernabeSuarez/codo_a_codo_tp_python" rel="noreferrer"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BernabeSuarez&repo=codo_a_codo_tp_python&theme=neon&show_owner=true" alt="BernabeSuarez" /> </a>
+<a href="https://github.com/CristianVellio/UTN-Full-Stack-JS-Integrador" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=UTN-Full-Stack-JS-Integrador&theme=neon" alt="cristianvellio" /> </a> <a href="https://github.com/BernabeSuarez/codo_a_codo_tp_python" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=BernabeSuarez&repo=codo_a_codo_tp_python&theme=neon&show_owner=true" alt="BernabeSuarez" /> </a>
+</div>
 <br>
 <br>
 <div align=center>
