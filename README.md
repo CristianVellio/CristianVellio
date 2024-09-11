@@ -4,7 +4,7 @@
 <br>
 <h2 align=center>💻 About Me 🚀</h2>
 
-<div align=center>
+<div align=justify>
 <p>I’m a Full-Stack Software Developer, I graduated from the Python Developer professional program at Codo a Codo, provided by the Buenos Aires City Government, Agencia de Aprendizaje.; currently a second-semester student in the Bachelor’s in Technology of Software Development program at the Higher Polytechnic Institute of Córdoba (ISPC). Additionally, I am enrolled in the Full-Stack Web Developer higher education program at the National University of Technology, Buenos Aires Branch (UTN-BA).
 <br>
   
