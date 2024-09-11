@@ -53,7 +53,6 @@ I am a self-driven, empathetic, self-taught, and social individual who excels at
 <a href="https://github.com/CristianVellio/UTN-Full-Stack-JS-Integrador" rel="noreferrer"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=UTN-Full-Stack-JS-Integrador&theme=neon" alt="cristianvellio" /> </a>
 
 <a href="https://github.com/BernabeSuarez/codo_a_codo_tp_python" rel="noreferrer"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BernabeSuarez&repo=codo_a_codo_tp_python&theme=neon&show_owner=true" alt="BernabeSuarez" /> </a>
-<p> </p>
 <br>
 <br>
 <div align=center>
