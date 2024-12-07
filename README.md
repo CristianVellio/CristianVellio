@@ -50,7 +50,7 @@ I am a self-driven, empathetic, self-taught, and social individual who excels at
 <br>
 <h2 align=center>📌 Pinned</h2>
 <div align=center>
-<a href="https://github.com/CristianVellio/proyecto-Libreria" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=proyecto-Libreria&theme=neon" alt="cristianvellio" /> </a>  <a href="https://github.com/CristianVellio/PORT-FOLIO" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=PORT-FOLIO&theme=neon" alt="cristianvellio" /> </a>
+  <a href="https://github.com/CristianVellio/PORT-FOLIO" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=PORT-FOLIO&theme=neon" alt="cristianvellio" /> </a> <a href="https://github.com/CristianVellio/PORT-FOLIO" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=PORT-FOLIO&theme=neon" alt="cristianvellio" /> </a>
 
 <a href="https://github.com/ISPC-Brokers/Brokers" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=Brokers&theme=neon" alt="cristianvellio" /> </a> <a href="https://github.com/CristianVellio/Oracle-ONE" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=Oracle-ONE&theme=neon" alt="cristianvellio" /> </a>
 
