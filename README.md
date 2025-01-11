@@ -56,9 +56,9 @@ I look forward to potential collaborations or working with you in the future.<br
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://raw.githubusercontent.com/cristianvellio/cristianvellio/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="http://raw.githubusercontent.com/cristianvellio/cristianvellio/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="http://raw.githubusercontent.com/cristianvellio/cristianvellio/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristianvellio/cristianvellio/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristianvellio/cristianvellio/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/cristianvellio/cristianvellio/output/github-contribution-grid-snake.svg" />
 </picture>
 
 
