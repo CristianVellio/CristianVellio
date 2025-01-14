@@ -61,12 +61,6 @@ I look forward to potential collaborations or working with you in the future.<br
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/cristianvellio/cristianvellio/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
-<div align=center>
-  <h2> Activity Graph </h2>
-     <img src="https://github-readme-activity-graph-five-eta.vercel.app/graph?username=cristianvellio&theme=react-dark" alt="cristian-vellio" width="900" height="350" />
-</div>
-
 <br><br><br>
 
 </div>
