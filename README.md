@@ -62,6 +62,10 @@ I look forward to potential collaborations or working with you in the future.<br
 </picture>
 
 
+<div align=center>
+  <h2> Activity Graph </h2>
+     <img src="https://github-readme-activity-graph-five-eta.vercel.app/graph?username=cristianvellio&theme=react-dark" alt="cristian-vellio" width="900" height="350" />
+</div>
 
 <br><br><br>
 
