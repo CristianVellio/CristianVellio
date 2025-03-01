@@ -46,6 +46,10 @@ I look forward to potential collaborations or working with you in the future.<br
 
 <a href="https://github.com/CristianVellio/proyecto_Clima" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=proyecto_Clima&theme=neon" alt="cristianvellio" /> </a> <a href="https://github.com/CristianVellio/conversor-de-moneda" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=conversor-de-moneda&theme=neon" alt="cristianvellio" /> </a>
 
+<a href="https://github.com/CristianVellio/api" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=api&theme=neon" alt="cristianvellio" /> </a> <a href="https://github.com/CristianVellio/screenmatch" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=screenmatch&theme=neon" alt="cristianvellio" /> </a>
+
+<a href="https://github.com/CristianVellio/FOROHUB" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=FOROHUB&theme=neon" alt="cristianvellio" /> </a> <a href="https://github.com/CristianVellio/LiterAlura" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=LiterAlura&theme=neon" alt="cristianvellio" /> </a>
+
 <a href="https://github.com/CristianVellio/Oracle-ONE" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=Oracle-ONE&theme=neon" alt="cristianvellio" /> </a> <a href="https://github.com/CristianVellio/Proyecto-Integrador-UTN-FRBA-Inicial" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=Proyecto-Integrador-UTN-FRBA-Inicial&theme=neon" alt="cristianvellio" /> </a>
 </div>
 <br>
