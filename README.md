@@ -16,7 +16,7 @@ I look forward to potential collaborations or working with you in the future.<br
 <h2 align=center>🔗 Links</h2>
 
 <div align=center>
-<a href="https://cristian-vellio-cv.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="portfolio"></a>
+<a href="https://cristian-vellio-cv.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="portfolio"></a>
 <a href="https://www.linkedin.com/in/cristianvellio/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a>
 <a href="mailto:cristianvellio86@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
