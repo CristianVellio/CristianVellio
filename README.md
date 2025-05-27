@@ -5,10 +5,10 @@
 <h2 align=center>💻 About Me 🚀</h2>
 
 <div align=justify>
-<p>I am a Software Developer with a solid foundation in full-stack web development. I graduated from the Full-Stack Web Developer program at the National University of Technology, Buenos Aires (UTN-BA), and I’m currently pursuing a Bachelor’s in Software Development at the Higher Polytechnic Institute of Córdoba (ISPC), where I am a sophomore in my third semester. Additionally, I hold an Associate’s Programmer degree, specializing in Python, from the ISPC.<br>
-My diverse background includes a high school diploma in Arts, Communications, and Design, and I previously pursued a master in Modern Literature. These experiences have enriched my creative problem-solving skills, which I now apply in the IT and programming world. My passion for technology began early: I completed my first Junior PC Operator course at age 12, even without owning a computer at the time.<br>
-I am a self-motivated and empathetic individual who thrives in collaborative environments. I enjoy learning from others, sharing knowledge, and tackling challenges head-on. My journey reflects my deep enthusiasm for the IT field and my pride in evolving into a dedicated Developer.<br>
-I look forward to potential collaborations or working with you in the future.<br>
+<p>I’m a full-stack developer passionate about building intuitive, scalable, and meaningful software. I love mixing creativity with clean code and have a solid foundation in both front-end and back-end development.<br>
+I'm currently studying Software Development at ISPC while building projects with Java, Python, JavaScript, React, and more. I also completed the Full-Stack Web Developer program at UTN-BA and hold a Python-specialized Associate’s degree.<br>
+My background in Arts and Literature gives me a unique lens for solving problems and collaborating with others. Whether it’s a solo side project or a team sprint, I bring energy, empathy, and curiosity.<br>
+Let’s build something great together!<br>
 </p>
 </div>
 <br>
