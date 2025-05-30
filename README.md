@@ -101,7 +101,7 @@ A command-line tool built with Bash scripting to support junior system administr
 <h2 align=center>📊 My Stats</h2>
   
 <div align=center>
-    <img src="https://github-readme-stats-cristian-vellio.vercel.app/api/top-langs/?username=cristianvellio&langs_count=8&theme=neon&layout=compact&hide=Papyrus,PHP&include_orgs=true&exclude_repo=clima-backend" alt="cristian-vellio" /> &nbsp;<img src="https://github-readme-stats-cristian-vellio.vercel.app/api?username=cristianvellio&show_icons=true&rank_icon=default&locale=en&count-private=true&include_orgs=true&theme=neon" alt="cristianvellio" /> <img src="https://github-readme-streak-stats-one-ecru.vercel.app?user=CristianVellio&theme=neon" alt="cristianvellio" /> 
+    <img src="https://github-readme-stats-cristian-vellio.vercel.app/api/top-langs/?username=cristianvellio&langs_count=8&theme=synthwave&layout=compact&hide=Papyrus,PHP&include_orgs=true&exclude_repo=clima-backend" alt="cristian-vellio" /> &nbsp;<img src="https://github-readme-stats-cristian-vellio.vercel.app/api?username=cristianvellio&show_icons=true&rank_icon=default&locale=en&count-private=true&include_orgs=true&theme=synthwave" alt="cristianvellio" /> <img src="https://github-readme-streak-stats-one-ecru.vercel.app?user=CristianVellio&theme=neon" alt="cristianvellio" /> 
 </div>
 
 <br>
