@@ -15,8 +15,7 @@ Let’s build something great together!<br>
 A full-stack web application designed to promote physical, emotional, and mental well-being. Built with Angular and supported by Agile methodologies (Scrum), the platform helps users manage healthy habits, track progress, and access curated wellness resources. I'm contributing as both a developer and team collaborator within the ISPC Software Development program, focusing on delivering accessible, intuitive user experiences. Visit the project <a href="https://github.com/ISPC-Soluciones/Bienestar-Plus">here</a>
 <br>
   <br>
-✅ Toolkit Administration Jr. <br>
-A command-line tool built with Bash scripting to support junior system administrators on Linux-based systems. This utility offers a clean, menu-driven interface for performing essential system tasks such as monitoring, maintenance, and network diagnostics. Developed as part of the ISPC curriculum, the project aims to simplify administration for users with limited terminal experience while reinforcing my own skills in scripting and systems logic. Visit the project <a href="https://github.com/ISPC-Soluciones/toolkit-linux">here</a>
+
 </div>
 <br>
 <br>
