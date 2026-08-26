@@ -97,31 +97,59 @@ A full-stack web application designed to promote physical, emotional, and mental
 
 
   
-<h2 align=center>📊 My Stats</h2>
+<h2 align="center">📊 My Stats</h2>
   
-<div align=center>
-    <img src="https://github-readme-stats-cristian-vellio.vercel.app/api/top-langs/?username=cristianvellio&langs_count=8&theme=neon&layout=compact&hide=Papyrus,PHP&include_orgs=true&exclude_repo=clima-backend" alt="cristian-vellio" /> &nbsp;<img src="https://github-readme-stats-cristian-vellio.vercel.app/api?username=cristianvellio&show_icons=true&rank_icon=default&locale=en&count-private=true&include_orgs=true&theme=neon" alt="cristianvellio" /> <img src="https://github-readme-streak-stats-one-ecru.vercel.app?user=CristianVellio&theme=neon" alt="cristianvellio" /> 
+<div align="center">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cristianvellio&langs_count=8&theme=neon&layout=compact&hide=Papyrus,PHP&include_orgs=true&exclude_repo=clima-backend" alt="Top Lenguajes Cristian Vellio" /> &nbsp;
+    <img src="https://github-stats-extended.vercel.app/api?username=cristianvellio&show_icons=true&rank_icon=default&locale=en&count-private=true&include_orgs=true&theme=neon" alt="Stats General Cristian Vellio" /> 
+    <img src="https://github-readme-streak-stats-one-ecru.vercel.app?user=CristianVellio&theme=neon" alt="Streak Stats Cristian Vellio" /> 
 </div>
 
 <br>
 <br>
-<h2 align=center>📌 Pinned</h2>
-<div align=center>
+<h2 align="center">📌 Pinned</h2>
+<div align="center">
   <a href="https://github.com/ISPC-Soluciones/Bienestar-Plus" rel="noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ISPC-Soluciones&repo=Bienestar-Plus&theme=neon&show_description=true" alt="BienestarPlus" />
-</a> <a href="https://github.com/ISPC-Soluciones/toolkit-linux" rel="noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ISPC-Soluciones&repo=toolkit-linux&theme=neon&show_description=true" alt="toolkit" />
-</a>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ISPC-Soluciones&repo=Bienestar-Plus&theme=neon&show_description=true" alt="BienestarPlus" />
+  </a> 
+  <a href="https://github.com/ISPC-Soluciones/toolkit-linux" rel="noreferrer">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ISPC-Soluciones&repo=toolkit-linux&theme=neon&show_description=true" alt="toolkit" />
+  </a>
   
-  <a href="https://github.com/CristianVellio/proyecto-Libreria" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=proyecto-Libreria&theme=neon" alt="cristianvellio" /> </a> <a href="https://github.com/CristianVellio/PORT-FOLIO" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=PORT-FOLIO&theme=neon" alt="cristianvellio" /> </a>
+  <a href="https://github.com/CristianVellio/proyecto-Libreria" rel="noreferrer"> 
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=cristianvellio&repo=proyecto-Libreria&theme=neon" alt="proyecto-Libreria" /> 
+  </a> 
+  <a href="https://github.com/CristianVellio/PORT-FOLIO" rel="noreferrer"> 
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=cristianvellio&repo=PORT-FOLIO&theme=neon" alt="PORT-FOLIO" /> 
+  </a>
 
-<a href="https://github.com/CristianVellio/proyecto_Clima" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=proyecto_Clima&theme=neon" alt="cristianvellio" /> </a> <a href="https://github.com/CristianVellio/conversor-de-moneda" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=conversor-de-moneda&theme=neon" alt="cristianvellio" /> </a>
+  <a href="https://github.com/CristianVellio/proyecto_Clima" rel="noreferrer"> 
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=cristianvellio&repo=proyecto_Clima&theme=neon" alt="proyecto_Clima" /> 
+  </a> 
+  <a href="https://github.com/CristianVellio/conversor-de-moneda" rel="noreferrer"> 
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=cristianvellio&repo=conversor-de-moneda&theme=neon" alt="conversor-de-moneda" /> 
+  </a>
 
-<a href="https://github.com/CristianVellio/api" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=api&theme=neon" alt="cristianvellio" /> </a> <a href="https://github.com/CristianVellio/screenmatch" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=screenmatch&theme=neon" alt="cristianvellio" /> </a>
+  <a href="https://github.com/CristianVellio/api" rel="noreferrer"> 
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=cristianvellio&repo=api&theme=neon" alt="api" /> 
+  </a> 
+  <a href="https://github.com/CristianVellio/screenmatch" rel="noreferrer"> 
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=cristianvellio&repo=screenmatch&theme=neon" alt="screenmatch" /> 
+  </a>
 
-<a href="https://github.com/CristianVellio/FOROHUB" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=FOROHUB&theme=neon" alt="cristianvellio" /> </a> <a href="https://github.com/CristianVellio/LiterAlura" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=LiterAlura&theme=neon" alt="cristianvellio" /> </a>
+  <a href="https://github.com/CristianVellio/FOROHUB" rel="noreferrer"> 
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=cristianvellio&repo=FOROHUB&theme=neon" alt="FOROHUB" /> 
+  </a> 
+  <a href="https://github.com/CristianVellio/LiterAlura" rel="noreferrer"> 
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=cristianvellio&repo=LiterAlura&theme=neon" alt="LiterAlura" /> 
+  </a>
 
-<a href="https://github.com/CristianVellio/Oracle-ONE" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=Oracle-ONE&theme=neon" alt="cristianvellio" /> </a> <a href="https://github.com/CristianVellio/Proyecto-Integrador-UTN-FRBA-Inicial" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvellio&repo=Proyecto-Integrador-UTN-FRBA-Inicial&theme=neon" alt="cristianvellio" /> </a>
+  <a href="https://github.com/CristianVellio/Oracle-ONE" rel="noreferrer"> 
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=cristianvellio&repo=Oracle-ONE&theme=neon" alt="Oracle-ONE" /> 
+  </a> 
+  <a href="https://github.com/CristianVellio/Proyecto-Integrador-UTN-FRBA-Inicial" rel="noreferrer"> 
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=cristianvellio&repo=Proyecto-Integrador-UTN-FRBA-Inicial&theme=neon" alt="Proyecto-Integrador-UTN-FRBA-Inicial" /> 
+  </a>
 </div>
 <br>
 <br>
