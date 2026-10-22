@@ -83,7 +83,7 @@ A full-stack web application designed to promote physical, emotional, and mental
   </tr>
   <tr>
     <td> Workflow </td>
-    <td> <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/> </a> <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon/jira.svg" alt="jira" width="40" height="40"/> </a> </td>
+    <td> <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/> </a> <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon/jira.svg" alt="jira" width="40" height="40"/> </a> <a href="https://www.scrum.org/resources/what-scrum-module" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/thesvg-color/scrum-alliance.svg" alt="scrum" width="40" height="40"/> </a> </td>
   </tr>
    <tr>
     <td> Design </td>
