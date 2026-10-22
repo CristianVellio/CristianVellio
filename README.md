@@ -44,7 +44,7 @@ A full-stack web application designed to promote physical, emotional, and mental
   </tr>
   <tr>
     <td>Code Editors/IDEs</td>
-    <td>  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://www.jetbrains.com//idea/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon:intellij.svg" alt="intellij" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon:pycharm.svg" alt="pycharm" width="40" height="40"/> </a>  </td>
+    <td>  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon/vim.svg" alt="vim" width="40" height="40"/> </a> <a href="https://www.jetbrains.com//idea/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon:intellij.svg" alt="intellij" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon:pycharm.svg" alt="pycharm" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> </td>
   </tr>
    <tr>
     <td>Front-End </td>
@@ -83,7 +83,7 @@ A full-stack web application designed to promote physical, emotional, and mental
   </tr>
   <tr>
     <td> Workflow </td>
-    <td> <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/> </a> </td>
+    <td> <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/> </a> <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon/jira.svg" alt="jira" width="40" height="40"/> </a> </td>
   </tr>
    <tr>
     <td> Design </td>
