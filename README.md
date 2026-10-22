@@ -6,13 +6,14 @@
 
 <div align=justify>
 <p>I’m a full-stack developer passionate about building intuitive, scalable, and meaningful software. I love mixing creativity with clean code and have a solid foundation in both front-end and back-end development.<br>
-I'm currently studying Software Development at ISPC while building projects with Java, Python, JavaScript, React, and more. I also completed the Full-Stack Web Developer program at UTN-BA and hold a Python-specialized Associate’s degree.<br>
-My background in Arts and Literature gives me a unique lens for solving problems and collaborating with others. Whether it’s a solo side project or a team sprint, I bring energy, empathy, and curiosity.<br>
-Let’s build something great together!<br>
+<br>
+I'm currently studying Software Development at ISPC (close to graduation) while building production-ready projects with Angular, React, Python (Django REST Framework), Node.js, and Java. I also completed the Full-Stack Web Developer program at UTN-BA, hold a Python-specialized Associate’s degree, and have earned certifications from Harvard (CS50x) and Oracle (Java & Spring Boot), alongside a C2 Proficient English level.<br>
+<br>
+My background in Arts and Literature gives me a unique lens for solving problems and collaborating with others. Whether it’s a solo side project or leading a team sprint as Scrum Master, I bring energy, empathy, and curiosity—backed by a strong basis on good practices.<br>
 </p>
   <h3>Currently Working on:</h3>
   ✅ Bienestar Plus <br>
-A full-stack web application designed to promote physical, emotional, and mental well-being. Built with Angular and supported by Agile methodologies (Scrum), the platform helps users manage healthy habits, track progress, and access curated wellness resources. I'm contributing as both a developer and team collaborator within the ISPC Software Development program, focusing on delivering accessible, intuitive user experiences. Visit the project <a href="https://github.com/ISPC-Soluciones/Bienestar-Plus">here</a>
+A full-stack web application designed to promote physical, emotional, and mental well-being. Built with Angular (TypeScript/RxJS) on the frontend and Django REST Framework on the backend, and supported by Agile methodologies (Scrum), the platform helps users manage healthy habits, track progress, and access curated wellness resources. I'm contributing as both a developer and Scrum Master within the ISPC Software Development program, focusing on modular architecture, clean code, and delivering intuitive user experiences.. Visit the project <a href="https://github.com/ISPC-Soluciones/Bienestar-Plus">here</a>
 <br>
   <br>
 
