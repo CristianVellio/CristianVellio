@@ -6,9 +6,7 @@
 
 <div align=justify>
 <p>I’m a full-stack developer passionate about building intuitive, scalable, and meaningful software. I love mixing creativity with clean code and have a solid foundation in both front-end and back-end development.<br>
-<br>
 I'm currently studying Software Development at ISPC (close to graduation) while building production-ready projects with Angular, React, Python (Django REST Framework), Node.js, and Java. I also completed the Full-Stack Web Developer program at UTN-BA, hold a Python-specialized Associate’s degree, and have earned certifications from Harvard (CS50x) and Oracle (Java & Spring Boot), alongside a C2 Proficient English level.<br>
-<br>
 My background in Arts and Literature gives me a unique lens for solving problems and collaborating with others. Whether it’s a solo side project or leading a team sprint as Scrum Master, I bring energy, empathy, and curiosity—backed by a strong basis on good practices.<br>
 </p>
   <h3>Currently Working on:</h3>
