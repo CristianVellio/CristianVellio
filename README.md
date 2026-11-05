@@ -101,10 +101,10 @@ A full-stack web application designed to promote physical, emotional, and mental
 
   
 <h2 align="center">📊 My Stats</h2>
-  
+
 <div align="center">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cristianvellio&langs_count=8&theme=neon&layout=compact&hide=Papyrus,PHP&include_orgs=true&exclude_repo=clima-backend" alt="Top Lenguajes Cristian Vellio" /> &nbsp;
-    <img src="https://github-stats-extended.vercel.app/api?username=cristianvellio&show_icons=true&rank_icon=default&locale=en&count-private=true&include_orgs=true&theme=neon" alt="Stats General Cristian Vellio" /> 
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cristianvellio&langs_count=8&theme=neon&layout=compact&hide=Papyrus,PHP&include_orgs=true&exclude_repo=clima-backend&cache_seconds=0" alt="Top Lenguajes Cristian Vellio" /> &nbsp;
+    <img src="https://github-stats-extended.vercel.app/api?username=cristianvellio&show_icons=true&rank_icon=default&locale=en&count-private=true&include_orgs=true&theme=neon&cache_seconds=0" alt="Stats General Cristian Vellio" /> 
     <img src="https://github-readme-streak-stats-one-ecru.vercel.app?user=CristianVellio&theme=neon" alt="Streak Stats Cristian Vellio" /> 
 </div>
 
