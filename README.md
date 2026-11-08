@@ -157,9 +157,9 @@ A full-stack web application designed to promote physical, emotional, and mental
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristianvellio/cristianvellio/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristianvellio/cristianvellio/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/cristianvellio/cristianvellio/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianVellio/CristianVellio/main/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CristianVellio/CristianVellio/main/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CristianVellio/CristianVellio/main/github-contribution-grid-snake.svg" />
 </picture>
 
 <br><br><br>
