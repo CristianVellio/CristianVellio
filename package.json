@@ -1,0 +1,28 @@
+{
+  "name": "cristianvellio",
+  "version": "1.0.0",
+  "description": "<h1 align=center> \r   <a href=\"https://git.io/typing-svg\"><img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Cristian!+%F0%9F%91%8B%F0%9F%8F%BE\" alt=\"Typing SVG\" /></a> \r </h1>\r <br>\r <h2 align=center>💻 About Me 🚀</h2>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snake:light": "dotenv -e .env -- generate-snake-animation --github_user CristianVellio --output github-contribution-grid-snake.svg",
+    "snake:dark": "dotenv -e .env -- generate-snake-animation --github_user CristianVellio --output \"github-contribution-grid-snake-dark.svg?palette=github-dark\"",
+    "update:snake": "npm run snake:light && npm run snake:dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianVellio/CristianVellio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CristianVellio/CristianVellio/issues"
+  },
+  "homepage": "https://github.com/CristianVellio/CristianVellio#readme",
+  "devDependencies": {
+    "dotenv-cli": "^11.1.0",
+    "generate-snake-animation": "^3.5.0"
+  }
+}
